@@ -110,4 +110,12 @@ footer p {
 
 .area-login input, button {
   margin: 11px 0;
+  padding: 10px;
+  border: 1px solid #e6e6e6;
+}
+
+.area-login button {
+  color: white;
+  background-color: #06aa48;
+  margin: 5px 0;
 }
