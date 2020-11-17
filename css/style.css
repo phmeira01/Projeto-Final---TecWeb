@@ -119,3 +119,26 @@ footer p {
   background-color: #06aa48;
   margin: 5px 0;
 }
+
+.conteudo-admin {
+  display: flex;
+  justify-content: space-between;
+}
+
+.conteudo-admin aside {
+  display: flex;
+  margin: 100px 0;
+  width: 100%;
+}
+
+.conteudo-admin aside a {
+  padding: 22px 15px;
+  background-color: #f9f9f9;
+  margin: 5px;
+  display: inline-block;
+  width: 100%;
+  font-size: 18px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
